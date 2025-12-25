@@ -1,0 +1,1 @@
+print("the table of five use the terminal")
